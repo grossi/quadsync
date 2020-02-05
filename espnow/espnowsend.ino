@@ -11,12 +11,8 @@ void setup() {
 
   WiFi.mode(WIFI_STA);
 
-  Serial.println();
-  Serial.print("mac address: ");
-  Serial.println(WiFi.macAddress());
-
 /** 
- * Initilizes esp-now
+ * Initializes esp-now
  */
   if (esp_now_init() != ESP_OK) {
     Serial.println("Error initializing ESP-NOW");

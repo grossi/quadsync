@@ -1,0 +1,1417 @@
+{
+    "Test 1" : {
+        "Distance" : "1.59 meters",
+        "Number of requests" : 97,
+        "Number of messages received" : 63,
+        "Number of timeouts" : 34
+    },
+    "Test 2" : {
+
+        "Distance" : "30.11 meters",
+        "Number of requests" : 46,
+        "Number of messages received" : 36,
+        "Number of timeouts" : 10
+    },
+    "Test 3" : {
+        "Distance" : "67.23 meters",
+        "Number of requests" : 54,
+        "Number of messages received" : 24,
+        "Number of timeouts" : 30
+    },
+    "Test 4" : {
+        "Distance" : "104.33 meters",
+        "Number of requests" : 73,
+        "Number of messages received" : 5,
+        "Number of timeouts" : 68
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+teste 1
+
+
+
+
+Distance : 1.59 meters
+
+Sent messages received : 63
+
+Number of timeouts : 34
+
+Number of requests : 97
+
+
+
+
+
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 5
+Message id (msgid): 0
+HeartBeat
+system_status: Sent with success
+3
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 28
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 5
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 26
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 10
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 10
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+
+
+teste 2:
+
+
+
+Distance : 30.11 meters
+
+
+Sent messages received : 36
+
+Number of timeouts : 10
+
+Number of requests : 46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 5
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 28
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 29
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 24
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 32
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 24
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 24
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 24
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 24
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: Sent with success
+4
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+teste 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distance : 67.23 meters
+
+Sent messages received : 24
+
+Number of timeouts : 30
+
+Number of requests : 54
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 28
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 32
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 32
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 28
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 23
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 28
+Message id (msgid): 0
+HeartBeat
+system_status: Sent with success
+4
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 6
+Message id (msgid): 0
+HeartBeat
+system_status: 4
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 27
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 26
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 4Sent with success
+
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+teste 4
+
+
+
+
+
+
+
+Distance : 104.33 meters
+
+Sent messages received : 5
+
+Number of timeouts : 68
+
+Number of requests : 73
+
+
+
+
+
+
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 6
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 4
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Sent with success
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+Mac address of sender: 
+3C:71:BF:F0:CF:AC
+Received data, delay: 22
+Message id (msgid): 0
+HeartBeat
+system_status: 3Sent with success
+
+Message id (msgid): 0
+HeartBeat
+system_status: 3
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+Sent with success
+No message for 1000ms, sending another signal
+
